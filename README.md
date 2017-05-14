@@ -1,5 +1,5 @@
 # THUNDER
-  ![logo](https://github.com/micorix/thunder/blob/master/src/assets/img/logo.png?raw=true ==100x)
+  ![logo](https://github.com/micorix/thunder/blob/master/src/assets/img/logo.png?raw=true)
   [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
   [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](http://opensource.org/licenses/MIT)
 
