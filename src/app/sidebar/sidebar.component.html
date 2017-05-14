@@ -1,0 +1,10 @@
+<div class="sidebar" [hidden]="this.isSidebarHidden()">
+  <ul>
+    <li [className]="getLinkClass('home')" routerLink='/home'><i class="material-icons">home</i></li>
+    <li [className]="getLinkClass('grades')" routerLink='/grades'><i class="material-icons">looks_6</i></li>
+    <li [className]="getLinkClass('absences')" routerLink='/absences'><i class="material-icons">pause_circle_outline</i></li>
+    <li [className]="getLinkClass('mail')" routerLink='/mail'><i class="material-icons">mail_outline</i></li>
+    <li [className]="getLinkClass('calendar')" routerLink='/calendar'><i class="material-icons">event_outline</i></li>
+    <li [className]="getLinkClass('settings')" routerLink='/settings'><i class="material-icons">settings</i></li>
+  </ul>
+</div>

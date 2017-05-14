@@ -1,0 +1,33 @@
+.sidebar{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height:100%;
+  padding:10px;
+background: #eee;
+
+}
+ul{
+  height:100%;
+margin:0;
+padding:0;
+  -webkit-padding-start:0;
+  list-style-type: none;
+  display: flex;
+   flex-direction: column;
+   width:auto;
+}
+li{
+
+text-align: center;
+flex-grow: 1;
+font-size:3em;
+width:1em;
+}
+li i{
+width:1em;
+font-size:30px;
+}
+.active{
+  color:red;
+}
