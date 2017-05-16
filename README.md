@@ -8,6 +8,8 @@ Project is in 0.0.1 alpha version. App was created with Angular2 and Electron. D
 
 ## Installation
 ```
+git clone https://github.com/micorix/thunder.git
+cd thunder
 yarn
 ```
 
@@ -20,7 +22,7 @@ Untested way to run Thunder is `npm start`
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build and next create installer for your OS with Electron guideline.
 
 ## Further help
-If you have trouble please report issue.
+If you have trouble please report an issue.
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## TODO
