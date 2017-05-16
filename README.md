@@ -29,7 +29,7 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 Unit tests via [Karma](https://karma-runner.github.io).
 End-to-end tests via [Protractor](http://www.protractortest.org/)
 
-##License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2017 Michał Oręziak
